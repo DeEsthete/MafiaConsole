@@ -1,0 +1,8 @@
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\bin\Debug\MafiaConsole.exe.config
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\bin\Debug\MafiaConsole.exe
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\bin\Debug\MafiaConsole.pdb
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\obj\Debug\MafiaConsole.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\obj\Debug\MafiaConsole.exe
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\obj\Debug\MafiaConsole.pdb
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\bin\Debug\MafiaConsole.exe.CodeAnalysisLog.xml
+C:\Users\djoni\source\repos\MafiaConsole\MafiaConsole\bin\Debug\MafiaConsole.exe.lastcodeanalysissucceeded
